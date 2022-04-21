@@ -1,0 +1,6 @@
+.toDoList {
+    display: grid;
+    gap: 5px;
+    grid-template-columns: 8fr auto auto;
+    margin-top: 5px;
+}

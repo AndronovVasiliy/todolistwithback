@@ -1,0 +1,10 @@
+.loginForm {
+    position: absolute;
+    z-index: 9999;
+    background-color: black;
+    top: 10px;
+    width: 200px;
+    left: calc(50% - 100px);
+    padding-bottom: 10px;
+    border-radius: 15px;
+}
